@@ -1,0 +1,13 @@
+use git/svn/etc commands to find which files change
+parse files into syntax trees and determine what changed
+tree diff algorithms and random things to read: 
+Zhang-Shasha
+http://www.cs.haifa.ac.il/~oren/Publications/TEDinTALG.pdf
+http://www.sciencedirect.com/science/article/pii/S0304397505000174
+http://www.sciencedirect.com/science/article/pii/S0304397510005463
+http://facebook.github.io/react/docs/reconciliation.html
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.48.8675
+
+Then use Roslyn api to find affected branches
+
+http://stackoverflow.com/questions/8311671/code-diff-using-roslyn-ctp-api
